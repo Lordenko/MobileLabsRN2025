@@ -43,9 +43,5 @@
   
   ![Screen6](./assets/screenshots/screen6.png)
 </details>
-<details>
-  <summary>Screen7</summary>
-  
-  ![Screen7](./assets/screenshots/screen7.png)
-</details>
+
 

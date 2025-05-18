@@ -16,11 +16,11 @@
 <details>
   <summary>Screen1</summary>
 
-  ![Screen1](./assets/screenshots/screen1.jpg)
+  ![Screen1](./assets/screenshots/screen1.png)
 </details>
 <details>
   <summary>Screen2</summary>
 
-  ![Screen2](./assets/screenshots/screen2.jpg)
+  ![Screen2](./assets/screenshots/screen2.png)
 </details>
 
